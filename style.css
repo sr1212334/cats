@@ -1,7 +1,39 @@
 body{
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(205, 185, 221);
+    cursor: default;
 }
 
 .title{
+    text-align: center;
+    color: rgb(52, 52, 116);
+    font-size: xxx-large;
+    cursor: grab;
+    
+}
 
+.title2{
+    color: rgb(52, 52, 116);
+    font-size: xx-large;
+    cursor: grab;
+}
+
+.asks{
+    color: rgb(62, 33, 78);
+    font-size: x-large;
+    cursor: pointer;
+}
+
+.warp{
+    text-align: center;
+}
+
+.foto{
+    width: 350px;
+    cursor: crosshair;
+}
+
+.end{
+    text-align: center;
+    font-size: x-large;
+    color: rgb(206, 185, 221);
 }
