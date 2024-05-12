@@ -30,10 +30,29 @@ body{
 .foto{
     width: 350px;
     cursor: crosshair;
+    border-radius: 50px;
 }
 
 .end{
     text-align: center;
     font-size: x-large;
     color: rgb(206, 185, 221);
+}
+
+.asks:hover{
+    font-size: 30px;
+    color: black;
+}
+
+.foto:hover{
+    border-bottom: 5000px, solid seagreen;
+}
+
+.title:hover{
+    font-size: 100px;
+}
+
+.end:hover{
+    font-size: 30px;
+    color: mediumblue;
 }
